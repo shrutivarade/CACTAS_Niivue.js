@@ -1,4 +1,3 @@
-Certainly! Here's a detailed documentation for the provided project:
 
 ## Project Documentation
 
@@ -7,6 +6,7 @@ This project is a web-based image segmentation application that allows users to 
 
 ### Dependencies
 The project requires the following dependencies:
+- Google cCrome
 - Web browser with WebGL2 support
 - XMLHttpRequest
 - ONNX runtime library (loaded dynamically)
