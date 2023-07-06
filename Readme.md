@@ -6,7 +6,7 @@ This project is a web-based image segmentation application that allows users to 
 
 ### Dependencies
 The project requires the following dependencies:
-- Google cCrome
+- Google Chrome
 - Web browser with WebGL2 support
 - XMLHttpRequest
 - ONNX runtime library (loaded dynamically)
