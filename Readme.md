@@ -4,7 +4,7 @@
 ### Project Link : https://shrutivarade.github.io/CACTAS_Niivue.js/
 
 ### Introduction
-This project is a web-based image segmentation application that allows users to interactively select a region on an image and generate a corresponding segmentation mask using an ONNX model.
+This project is a web-based image segmentation application that allows users to interactively select a region on an image and generate a corresponding segmentation mask using SAM model in an ONNX runtime environment.
 
 ### Dependencies
 The project requires the following dependencies:
